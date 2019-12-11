@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movieteka</string>
+    <string name="enter_movie_name">Введите название фильма...</string>
+</resources>
