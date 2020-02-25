@@ -8,3 +8,5 @@ Technology:
 5. Custom view
 
 On the main screen of the application there is a list of popular films, it is possible to search for a movie, by clicking on a movie from the list it opens with a custom view with a full description of the plot, this screen is hidden by swiping up or down.
+
+![Main Screen with popular moovies](https://web.telegram.org/fc9b96f4-14d6-424c-bd9b-50c528abd688)
